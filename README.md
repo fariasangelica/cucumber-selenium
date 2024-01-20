@@ -42,6 +42,6 @@ Neste projeto foram utilizadas 4 bibliotecas:
 - [cucumber-java](https://mvnrepository.com/artifact/info.cukes/cucumber-java "cucumber-java")
 - [cucumber-junit](https://mvnrepository.com/artifact/info.cukes/cucumber-junit "cucumber-junit")
 
-## Contruibuidores:
+## Contribuintes:
 
 Obrigada, Adam Vinicius e Samuel Lucas.
