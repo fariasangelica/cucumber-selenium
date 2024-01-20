@@ -19,15 +19,15 @@
     └── test
         ├── java
         │   ├── core
-        │   │   ├── Driver   
+        │   │   └──  Driver   
         │   ├── maps
-        │   │   ├── LLoginMaps
+        │   │   └── LoginMaps
         │   ├── pages
-        │   │   ├── LoginPage
+        │   │   └──  LoginPage
         │   ├── runner
-        │   │   ├── RunnerTest
+        │   │   └──  RunnerTest
         │   ├── steps
-        │   │   ├── Login.Steps
+        │   │   └──  Login.Steps
         │   │       
         └── resources
             ├── drivers
