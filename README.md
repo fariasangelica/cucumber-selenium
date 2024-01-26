@@ -1,6 +1,6 @@
 # Projeto - Selenium, Java & Cucumber
 
-## Ferramentas utilizadas:
+## Ferramentas utilizadas: 
 - [Maven](https://maven.apache.org/ "Maven")
 - [Java](https://www.java.com/pt_BR/ "Java")
 - [JUnit](https://junit.org/junit4/ "JUnit") 
